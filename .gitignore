@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.npy
+*.npz
+data/
+models/
+outputs/
+.DS_Store
